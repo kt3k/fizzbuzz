@@ -1,2 +1,1 @@
-<?for(;$i++<100;)echo($j=($i%3<1?Fizz:'').($i%5<1?Buzz:''))?$j:$i,"
-";
+<?while($i++<100)echo$i%3?!$$i=$i:Fizz,$i%5?$$i:Buzz,~õ;
